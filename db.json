@@ -1,11 +1,11 @@
 {
   "usuarios": [
     {id: 1, nome: 'Guilherme', super_admin: 'Sim', email:'seila@test.com',  status: 'Ativo'},
-        {id: 2, nome: 'Marcelo', super_admin: 'Sim',email:'seila@test.com', status: 'Inativo'},
-        {id: 3, nome: 'João', super_admin: 'Sim', email:'seila@test.com',status: 'Ativo'},
-        {id: 4, nome: 'Leonardo', super_admin: 'Sim', email:'seila@test.com',status: 'Inativo'},
-        {id: 5, nome: 'Fabiano', super_admin: 'Sim', email:'seila@test.com',status: 'Inativo'},
-        {id: 6, nome: 'Italo', super_admin: 'Sim', email:'seila@test.com',status: 'Ativo'},
-        {id: 7, nome: 'Stafanie', super_admin: 'Sim', email:'seila@test.com',status: 'Ativo'}
+    {id: 2, nome: 'Marcelo', super_admin: 'Sim',email:'seila@test.com', status: 'Inativo'},
+    {id: 3, nome: 'João', super_admin: 'Sim', email:'seila@test.com',status: 'Ativo'},
+    {id: 4, nome: 'Leonardo', super_admin: 'Sim', email:'seila@test.com',status: 'Inativo'},
+    {id: 5, nome: 'Fabiano', super_admin: 'Sim', email:'seila@test.com',status: 'Inativo'},
+    {id: 6, nome: 'Italo', super_admin: 'Sim', email:'seila@test.com',status: 'Ativo'},
+    {id: 7, nome: 'Stafanie', super_admin: 'Sim', email:'seila@test.com',status: 'Ativo'}
   ]
 }
