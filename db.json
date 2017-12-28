@@ -1,0 +1,9 @@
+{
+  "usuarios": [
+    { "id": 1, "nome": "Guilherme", "super_admin": "true", "status": "y" },
+    { "id": 2, "nome": "André", "super_admin": "false", "status": "y" },
+    { "id": 3, "nome": "Joao", "super_admin": "false", "status": "y" },
+    { "id": 4, "nome": "Paulo", "super_admin": "false", "status": "y" },
+    { "id": 5, "nome": "Bernardp", "super_admin": "false", "status": "y" }
+  ]
+}
